@@ -1,0 +1,48 @@
+## Low-Fidelity vs High-Fidelity Wireframes
+1. Low-Fidelity Wireframes
+
+Low-fidelity wireframes are basic, simplified sketches that outline the general layout, structure, and functionality of a product. They focus on concepts rather than details, often using placeholders like boxes and lines for images, text, and buttons.
+
+# When Used:
+
+*Early in the design process to brainstorm ideas.
+
+*To quickly explore multiple design options.
+
+* To communicate initial concepts with stakeholders without spending too much time on visuals.
+
+Example: A hand-drawn sketch or a grayscale wireframe showing a header, body content, and footer without specific fonts or images.
+
+2. High-Fidelity Wireframes
+
+High-fidelity wireframes are detailed and polished representations that closely resemble the final product. They include visual details such as typography, spacing, colors, and sometimes interactive elements.
+
+# When Used:
+
+* Later in the design process after ideas have been validated.
+
+* To test usability with real users.
+
+* To provide developers with a clearer reference for building the final product.
+
+Example: A digital wireframe in Figma or Adobe XD with styled buttons, actual text, and realistic image placements.
+
+## Type of Wireframe in the Figma File
+
+The provided Figma file represents a high-fidelity wireframe. Unlike low-fidelity sketches that focus on basic structure, this wireframe includes detailed design elements such as colors, typography, real images, icons, and interactive components.
+
+1. Why it’s High-Fidelity:
+
+* Uses actual images and text instead of placeholders.
+
+* Shows realistic navigation flow between screens (e.g., login → home → details → reservation).
+
+* Demonstrates final UI elements like buttons, forms, and icons.
+
+2. Purpose in the Design Process:
+
+* Useful for usability testing since it closely mimics the final product.
+
+* Helps stakeholders visualize the end result.
+
+* Provides developers with a clear reference for implementation.
