@@ -1,0 +1,27 @@
+## Benefits of Wireframing in Software Development
+
+Wireframing plays a vital role in the software development process, acting as a visual blueprint that bridges the gap between ideas and implementation. By outlining structure, navigation, and functionality early, wireframes ensure teams move forward with clarity and shared understanding.
+
+1. Guides the Design Process
+
+Wireframes help designers and developers align on how features should look and function before development begins.
+
+Example: In the Airbnb project wireframe, the reservation screen clearly shows form fields (e.g., payment method, dates, cancellation policy). This ensures developers know exactly what data is required and where it should appear, reducing guesswork.
+
+2. Facilitates Team Communication
+
+Wireframes act as a common reference point for designers, developers, and stakeholders. They make abstract ideas concrete, ensuring everyone shares the same vision.
+
+Example: The login and join pages in your Figma file visually communicate user flow. Instead of describing how users will sign in with Google or Facebook, the wireframe shows the buttons in context, making it easier for both developers and stakeholders to understand the intended experience.
+
+3. Saves Time and Resources
+
+By validating structure and user flow early, teams can spot usability issues before coding begins, preventing costly rework later.
+
+Example: If users struggle to find the “Book Now” button in the detail page during a wireframe review, changes can be made quickly in Figma without touching the codebase.
+
+4. Enhances User-Centered Design
+
+Wireframes keep the focus on user experience by mapping out flows and ensuring each screen supports user goals.
+
+Example: The property detail page in your Airbnb wireframe emphasizes key information—images, description, and reviews—ensuring users can make informed booking decisions.
