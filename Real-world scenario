@@ -1,0 +1,33 @@
+Real-World Scenario: Wireframing Revealing Usability Issues
+
+During the early design phase of an e-commerce mobile application, the team created wireframes to map out the checkout process. Initially, the checkout screen placed the shipping address form, payment details, and order summary all on a single long page.
+
+1. Identified Usability Issue
+
+* When stakeholders and testers reviewed the wireframe, they noticed that:
+
+* The page was overly cluttered, making it overwhelming for users.
+
+* Important actions like “Confirm Order” were buried at the bottom, forcing users to scroll through multiple sections.
+
+* Mobile users risked abandoning the checkout due to frustration with the long form.
+
+2. Resolution
+
+Before moving into development, the team adjusted the wireframe to break the checkout into three separate, step-by-step screens:
+
+* Shipping Information
+
+* Payment Details
+
+* Order Review & Confirmation
+
+Each screen had clear navigation buttons (“Next” and “Back”), reducing cognitive load and guiding users through the process more smoothly.
+
+3. Impact on the Final Product
+
+* The streamlined flow improved usability and reduced cart abandonment rates.
+
+* Developers received a clearer, structured reference, saving time during implementation.
+
+* Users reported higher satisfaction with the app during usability testing, leading to stronger adoption rates.
